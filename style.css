@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-items: space-around;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(113, 241, 87);
+  background-image: url(https://images.ecycle.com.br/wp-content/uploads/2021/04/04101243/pe-de-alface.jpg.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  height: 10vh;
+  width: 100vw;
+  background-color: #054205;
+  font-size: 25px;
+  text-align: center;
+  padding: 5px;
+  margin: 5px;
+  cursor: pointer;
+  color: beige;
+}
+
+section {
+  margin: 20px;
+}
+
+h2 {
+  font-size: 40px;
+  margin: 5px;
+  padding: 10px;
+}
+
+p {
+  font-size: 20px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.primeira {
+  background-color: #99FF99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  height: 40vh;
+  font-size: 17px;
+}
+
+.segunda {
+  background-color: #054205;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  height: 40vh;
+  font-size: 17px;
+}
+
+.terceira {
+  background-color: #33FF33;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  height: 40vh;
+  font-size: 17px;
+}
+
+.quarta {
+  background-color: #99FF99;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  height: 40vh;
+  font-size: 17px;
+}
+
+.quinta {
+  background-color: #054205;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 50vw;
+  height: 40vh;
+  font-size: 17px;
+}/*# sourceMappingURL=style.css.map */
